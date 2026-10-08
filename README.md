@@ -379,7 +379,10 @@ The Information Technology Professionals Examination Council (ITPEC) manages the
 ### Bangladesh Registration (BDITEC)
 In Bangladesh, the exam is managed by BDITEC under the Bangladesh Computer Council.
 - **BDITEC Official Website:** [http://bditec.gov.bd/](http://bditec.gov.bd/)
-- **Registration Portal:** [http://registration.bditec.gov.bd/](http://registration.bditec.gov.bd/)
+- **Syllabus:** [http://bditec.gov.bd/?page_id=189](http://bditec.gov.bd/?page_id=189)
+- **Previous Questions and Answer:** [http://bditec.gov.bd/?page_id=189](http://bditec.gov.bd/?page_id=189)
+- **Registration Portal / Link (for Bangladesh):** [http://registration.bditec.gov.bd/](http://registration.bditec.gov.bd/)
+- **Training Class:** [Link](https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRVlvZmVaMHFRbEpIWkZMU2JUeHlHUHxBSTVJdTVzTmlLaEdqbk82VmdZc0t3aHFHSWdFOENzSHZ1Q3oxR0VNc2V2cUVpQzI1SkRPMkhOWHY0UjNNVWJQRGs2ZGZTZlpJQUhTWXVmR1FFek1IVzZUb3IxanlXSklBeWdB&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1c6_Fz9Qqz4aIwdEfBDbR2_C3ygjQkt8q%3Fusp%3Dshare_link&v=NSftQIOyXe0)
 
 #### Quick Registration Guidelines for BDITEC
 1. Go to the [registration portal](http://registration.bditec.gov.bd/) during the open registration window.
